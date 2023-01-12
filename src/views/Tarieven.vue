@@ -2,12 +2,12 @@
   <div class="tarieven">
     <h2 class="mt-3">Tarieven</h2>
     <div class="pt-3 mb-5 text-left">
-      <b>Wandelingen in de week</b>: €15 per wandeling.<br />
+      <b>Vaste wandelingen</b>: €16,50 per wandeling.<br />
       <!-- <b>3 - 4</b> wandelingen in de week: €14 per wandeling.<br /> -->
       <!-- <b>5</b> wandelingen in de week: €13,50 per wandeling.<br /> -->
-      <b>Losse wandeling</b>: €15<br /><br />
-      <b>Een 2e hond op hetzelfde adres ontvangt 30% korting</b><br />
-      Tweede hond, wandelingen in de week: €10,50 per wandeling.<br />
+      <b>Losse wandeling</b>: €16,50<br /><br />
+      <b>Een 2e hond op hetzelfde adres ontvangt een korting</b><br />
+      Tweede hond: €10,50 per wandeling.<br />
       <!-- <b>3 - 4</b> wandelingen in de week: €9,80 per wandeling.<br /> -->
       <!-- <b>5</b> wandelingen in de week: €9,45 per wandeling.<br /> -->
       <br />
